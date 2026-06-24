@@ -25,12 +25,12 @@
 ```javascript
 const zoha = {
   role:       "Full Stack Developer",
-  university: "NUML University, Multan — CGPA 3.84 / 4.00",
-  semester:   "5th Semester, BS Computer Science",
+  education: "BS Computer Science @ NUML University, Multan",
+  cgpa: "3.84 / 4.00",
   building:   ["REST APIs", "Admin Dashboards", "E-Commerce Systems"],
   currentFocus: "Node.js · PostgreSQL · Express.js",
-  background: "Graphic Designer turned Developer 🎨→💻",
-  funFact:    "I debug at 2am and actually enjoy it"
+  background: "Graphic Designer turned Developer ",
+  funFact:    "I debug at 2am and actually enjoy it","I love cold coffee","I am not satisfied until i think it's perfect"
 };
 ```
 
@@ -131,8 +131,8 @@ Responsive product showcase website with organized navigation, category filterin
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zohamalikdev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohamalikdev&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=cluelesszoha&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cluelesszoha&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
