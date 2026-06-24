@@ -70,27 +70,27 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🛒 bazar — e-commerce platform</h3>
+<h3>🛒 Bazzar — E-commerce Platform</h3>
 <img src="https://img.shields.io/badge/Node.js-ffd6e7?style=flat-square&logo=nodedotjs&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/PostgreSQL-ffc0cb?style=flat-square&logo=postgresql&logoColor=8b2252"/>
 <img src="https://img.shields.io/badge/JWT-ffb6d9?style=flat-square&logoColor=8b2252"/>
 <br/><br/>
-production-grade e-commerce app with 3-tier architecture, 15 REST API endpoints, JWT auth, admin dashboard, cart & checkout system 
+Production-grade e-commerce app with 3-tier architecture, 15 REST API endpoints, JWT auth, admin dashboard, cart & checkout system 
 <br/><br/>
-<code>rest api</code> <code>jwt auth</code> <code>admin crud</code> <code>postgresql</code>
+<code>Rest Api</code> <code>JWT Auth</code> <code>Admin Crud</code> <code>Postgresql</code>
 </td>
 <td width="50%" valign="top">
 <h3> ArtWala — Event Platform</h3>
 <img src="https://img.shields.io/badge/PHP-ffd6e7?style=flat-square&logo=php&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/MySQL-ffc0cb?style=flat-square&logo=mysql&logoColor=8b2252"/>
 <br/><br/>
-full stack event management platform with SQL-powered search, image uploads, relational database design & complete admin panel 
+Full stack event management platform with SQL-powered search, image uploads, relational database design & complete admin panel 
 
 <br/><br/>
-<code>Full Stack</code> <code>mysql</code> <code>admin panel</code>
+<code>Full Stack</code> <code>MySQL</code> <code>Admin Panel</code>
 <br/><br/>
 
-[![Live](https://img.shields.io/badge/live%20demo%20🌷-FFB6C1?style=flat-square)](https://artwala.page.gd/index.php)
+[![Live](https://img.shields.io/badge/live%20demo%20-FFB6C1?style=flat-square)](https://artwala.page.gd/index.php)
 </td>
 </tr>
 <tr>
@@ -99,22 +99,22 @@ full stack event management platform with SQL-powered search, image uploads, rel
 <img src="https://img.shields.io/badge/PHP-ffd6e7?style=flat-square&logo=php&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/MySQL-ffc0cb?style=flat-square&logo=mysql&logoColor=8b2252"/>
 <br/><br/>
-full stack task management with complete CRUD operations, structured database design & clean UI 
+Full stack task management with complete CRUD operations, structured database design & clean UI 
 
 <br/><br/>
 
-[![Live](https://img.shields.io/badge/live%20demo%20🌷-FFB6C1?style=flat-square)](https://todolistt.page.gd/index.php)
+[![Live](https://img.shields.io/badge/live%20demo%20-FFB6C1?style=flat-square)](https://todolistt.page.gd/index.php)
 </td>
 <td width="50%" valign="top">
 <h3> DrinkCo — Product Website</h3>
 <img src="https://img.shields.io/badge/JavaScript-ffd6e7?style=flat-square&logo=javascript&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/CSS3-ffc0cb?style=flat-square&logo=css3&logoColor=8b2252"/>
 <br/><br/>
-responsive product showcase with organized navigation, category filtering & polished aesthetic UI ✨
+Responsive product showcase with organized navigation, category filtering & polished aesthetic UI 
 
 <br/><br/>
 
-[![Live](https://img.shields.io/badge/live%20demo%20-FFB6C1?style=flat-square)](https://cluelesszohav.github.io/DrinkCo/index.html)
+[![Live](https://img.shields.io/badge/live%20demo%20-FFB6C1?style=flat-square)](https://cluelesszoha.github.io/DrinkCo/index.html)
 </td>
 </tr>
 </table>
@@ -140,7 +140,7 @@ responsive product showcase with organized navigation, category filtering & poli
 
 <div align="center">
 
-*✦ made with love & lots of coffee ✦*
+* made with love & lots of coffee *
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffafd7,100:ff8fc8&height=80&section=footer" width="100%"/>
 
