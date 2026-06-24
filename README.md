@@ -85,8 +85,9 @@ Production-grade e-commerce app with 3-tier architecture, 15 REST API endpoints,
 </td>
 <td width="50%" valign="top">
 <h3>
+   <a href="https://github.com/cluelesszoha/ArtWala" textstyle="none">
   ArtWala — Event Platform 
-  <a href="https://github.com/cluelesszoha/ArtWala">↗</a>
+  </a>
 </h3>
 <img src="https://img.shields.io/badge/PHP-ffd6e7?style=flat-square&logo=php&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/MySQL-ffc0cb?style=flat-square&logo=mysql&logoColor=8b2252"/>
