@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=D4608A&center=true&vCenter=true&width=500&lines=building+things+that+actually+work+%F0%9F%8C%B8;node.js+%E2%80%A2+postgresql+%E2%80%A2+php+%E2%80%A2+js;numl+university+%E2%80%A2+multan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=D4608A&center=true&vCenter=true&width=500&lines=building+things+that+actually+work+%F0%9F%8C%B8;node.js+%E2%80%A2+postgresql+%E2%80%A2+php+%E2%80%A2+js;)](https://git.io/typing-svg)
 
 </div>
 
@@ -138,7 +138,7 @@ responsive product showcase with organized navigation, category filtering & poli
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cluelesszohav&theme=pink-ribbon&hide_border=true&background=FFF0F5&ring=D4608A&fire=FF8FC8&currStreakLabel=C2547A"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cluelesszoha&theme=pink-ribbon&hide_border=true&background=FFF0F5&ring=D4608A&fire=FF8FC8&currStreakLabel=C2547A"/>
 
 </div>
 
