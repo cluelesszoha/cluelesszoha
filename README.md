@@ -136,9 +136,7 @@ Show Image
 
 ---
 
-<div align="center">
 
-* made with love & lots of coffee *
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffafd7,100:ff8fc8&height=80&section=footer" width="100%"/>
 
