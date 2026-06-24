@@ -65,12 +65,16 @@
 
 ---
 
- featured projects
+ ## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3> Bazzar — E-commerce Platform</h3>
+<h3>
+  <a href="https://github.com/cluelesszoha/Bazzar-Shop">
+    Bazzar — E-commerce Platform
+  </a>
+</h3>
 <img src="https://img.shields.io/badge/Node.js-ffd6e7?style=flat-square&logo=nodedotjs&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/PostgreSQL-ffc0cb?style=flat-square&logo=postgresql&logoColor=8b2252"/>
 <img src="https://img.shields.io/badge/JWT-ffb6d9?style=flat-square&logoColor=8b2252"/>
@@ -80,7 +84,10 @@ Production-grade e-commerce app with 3-tier architecture, 15 REST API endpoints,
 <code>REST Api</code> <code>JWT Auth</code> <code>Admin Crud</code> <code>Postgresql</code>
 </td>
 <td width="50%" valign="top">
-<h3> ArtWala — Event Platform</h3>
+<h3>
+  ArtWala — Event Platform 
+  <a href="https://github.com/cluelesszoha/ArtWala">↗</a>
+</h3>
 <img src="https://img.shields.io/badge/PHP-ffd6e7?style=flat-square&logo=php&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/MySQL-ffc0cb?style=flat-square&logo=mysql&logoColor=8b2252"/>
 <br/><br/>
@@ -95,7 +102,12 @@ Show Image
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 Task Manager</h3>
+<h3>
+  <a href="https://github.com/cluelesszoha/ToDoList">
+    Task Manager
+  </a>
+</h3>
+  
 <img src="https://img.shields.io/badge/PHP-ffd6e7?style=flat-square&logo=php&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/MySQL-ffc0cb?style=flat-square&logo=mysql&logoColor=8b2252"/>
 <br/><br/>
@@ -106,7 +118,11 @@ Show Image
 
 </td>
 <td width="50%" valign="top">
-<h3> DrinkCo — Product Website</h3>
+<h3> 
+  <a href="https://github.com/cluelesszoha/DrinkCo">
+  DrinkCo — Product Website
+</h3>
+  
 <img src="https://img.shields.io/badge/JavaScript-ffd6e7?style=flat-square&logo=javascript&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/CSS3-ffc0cb?style=flat-square&logo=css3&logoColor=8b2252"/>
 <br/><br/>
