@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffafd7,100:ff8fc8&height=180&section=header&text=zoha%20malik&fontSize=52&fontColor=8b2252&fontAlignY=45&desc=full%20stack%20developer%20✦%20cs%20student&descAlignY=68&descColor=c2547a&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffafd7,100:ff8fc8&height=180&section=header&text=zoha%20malik&fontSize=52&fontColor=8b2252&fontAlignY=45&desc=full%20stack%20developer%20&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -27,17 +27,11 @@
 
 ##  about me
 
-```js
-const zoha = {
-  role:    "full stack developer",
-  uni:     "NUML university, multan 🇵🇰",
-  cgpa:    "3.84 / 4.00 ✨",
-  loves:   ["building things", "clean code", "aesthetic uis"],
-  stack:   "node · express · postgresql · php · js",
-  also:    "graphic designer turned dev ",
-  vibe:    "debugging at 2am and loving it "
-}
-```
+  Full stack developer who loves building things that actually work
+  Graphic designer turned developer 
+  Currently working with node.js · express · postgresql · php · javascript
+  The kind of person who debugs at 2am and genuinely enjoys 
+  Actually crazy for cold coffee 
 
 <br clear="right"/>
 
