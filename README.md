@@ -97,7 +97,6 @@ Full stack event management platform with SQL-powered search, image uploads, rel
 <code>Full stack</code> <code>MySql</code> <code>Admin Panel</code>
 <br/><br/>
 
-Show Image
 
 </td>
 </tr>
@@ -115,7 +114,6 @@ Show Image
 Full stack task management with complete CRUD operations, structured database design & clean UI 
 <br/><br/>
 
-Show Image
 
 </td>
 <td width="50%" valign="top">
@@ -129,8 +127,6 @@ Show Image
 <br/><br/>
 Responsive product showcase with organized navigation, category filtering & polished aesthetic UI 
 <br/><br/>
-
-Show Image
 
 </td>
 </tr>
