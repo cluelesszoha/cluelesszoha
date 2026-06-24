@@ -16,8 +16,8 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/say%20hello%20🌷-zohamalik.dev@gmail.com-FFB6C1?style=for-the-badge&logoColor=white)](mailto:zohamalik.dev@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/live%20project%20✨-artwala-ffc0cb?style=for-the-badge)](https://artwala.page.gd)
+[![Gmail](https://img.shields.io/badge/say%20hello%20-zohamalik.dev@gmail.com-FFB6C1?style=for-the-badge&logoColor=white)](mailto:zohamalik.dev@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/live%20project%20-artwala-ffc0cb?style=for-the-badge)](https://artwala.page.gd)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <img align="right" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-## 🌸 about me
+##  about me
 
 ```js
 const zoha = {
@@ -34,8 +34,8 @@ const zoha = {
   cgpa:    "3.84 / 4.00 ✨",
   loves:   ["building things", "clean code", "aesthetic uis"],
   stack:   "node · express · postgresql · php · js",
-  also:    "graphic designer turned dev 🎨→💻",
-  vibe:    "debugging at 2am and loving it 🌙"
+  also:    "graphic designer turned dev ",
+  vibe:    "debugging at 2am and loving it "
 }
 ```
 
@@ -105,7 +105,7 @@ full stack event management platform with SQL-powered search, image uploads, rel
 <img src="https://img.shields.io/badge/PHP-ffd6e7?style=flat-square&logo=php&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/MySQL-ffc0cb?style=flat-square&logo=mysql&logoColor=8b2252"/>
 <br/><br/>
-full stack task management with complete CRUD operations, structured database design & clean UI 🌸
+full stack task management with complete CRUD operations, structured database design & clean UI 
 
 <br/><br/>
 
@@ -120,7 +120,7 @@ responsive product showcase with organized navigation, category filtering & poli
 
 <br/><br/>
 
-[![Live](https://img.shields.io/badge/live%20demo%20🌷-FFB6C1?style=flat-square)](https://cluelesszohav.github.io/DrinkCo/index.html)
+[![Live](https://img.shields.io/badge/live%20demo%20-FFB6C1?style=flat-square)](https://cluelesszohav.github.io/DrinkCo/index.html)
 </td>
 </tr>
 </table>
@@ -131,8 +131,8 @@ responsive product showcase with organized navigation, category filtering & poli
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=cluelesszohav&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=c2547a&text_color=8b2252&icon_color=ff8fc8&count_private=true"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cluelesszohav&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=c2547a&text_color=8b2252"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=cluelesszoha&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=c2547a&text_color=8b2252&icon_color=ff8fc8&count_private=true"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cluelesszoha&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=c2547a&text_color=8b2252"/>
 
 </div>
 
