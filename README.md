@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffafd7,100:ff8fc8&height=180&section=header&text=zoha%20malik&fontSize=52&fontColor=8b2252&fontAlignY=45&desc=full%20stack%20developer%20&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:ffafd7,100:ff8fc8&height=180&section=header&text=Zoha%20Malik&fontSize=52&fontColor=8b2252&fontAlignY=45&desc=full%20stack%20developer%20&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -25,7 +25,7 @@
 
 <img align="right" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
-##  about me
+##  About Me
 
   Full stack developer who loves building things that actually work
   Graphic designer turned developer 
@@ -65,19 +65,19 @@
 
 ---
 
-##  Featured Projects
+ featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🛒 Bazzar — E-commerce Platform</h3>
+<h3> Bazzar — E-commerce Platform</h3>
 <img src="https://img.shields.io/badge/Node.js-ffd6e7?style=flat-square&logo=nodedotjs&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/PostgreSQL-ffc0cb?style=flat-square&logo=postgresql&logoColor=8b2252"/>
 <img src="https://img.shields.io/badge/JWT-ffb6d9?style=flat-square&logoColor=8b2252"/>
 <br/><br/>
 Production-grade e-commerce app with 3-tier architecture, 15 REST API endpoints, JWT auth, admin dashboard, cart & checkout system 
 <br/><br/>
-<code>Rest Api</code> <code>JWT Auth</code> <code>Admin Crud</code> <code>Postgresql</code>
+<code>REST Api</code> <code>JWT Auth</code> <code>Admin Crud</code> <code>Postgresql</code>
 </td>
 <td width="50%" valign="top">
 <h3> ArtWala — Event Platform</h3>
@@ -85,25 +85,25 @@ Production-grade e-commerce app with 3-tier architecture, 15 REST API endpoints,
 <img src="https://img.shields.io/badge/MySQL-ffc0cb?style=flat-square&logo=mysql&logoColor=8b2252"/>
 <br/><br/>
 Full stack event management platform with SQL-powered search, image uploads, relational database design & complete admin panel 
-
 <br/><br/>
-<code>Full Stack</code> <code>MySQL</code> <code>Admin Panel</code>
+<code>Full stack</code> <code>MySql</code> <code>Admin Panel</code>
 <br/><br/>
 
-[![Live](https://img.shields.io/badge/live%20demo%20-FFB6C1?style=flat-square)](https://artwala.page.gd/index.php)
+Show Image
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3> Task Manager</h3>
+<h3 Task Manager</h3>
 <img src="https://img.shields.io/badge/PHP-ffd6e7?style=flat-square&logo=php&logoColor=c2547a"/>
 <img src="https://img.shields.io/badge/MySQL-ffc0cb?style=flat-square&logo=mysql&logoColor=8b2252"/>
 <br/><br/>
 Full stack task management with complete CRUD operations, structured database design & clean UI 
-
 <br/><br/>
 
-[![Live](https://img.shields.io/badge/live%20demo%20-FFB6C1?style=flat-square)](https://todolistt.page.gd/index.php)
+Show Image
+
 </td>
 <td width="50%" valign="top">
 <h3> DrinkCo — Product Website</h3>
@@ -111,15 +111,13 @@ Full stack task management with complete CRUD operations, structured database de
 <img src="https://img.shields.io/badge/CSS3-ffc0cb?style=flat-square&logo=css3&logoColor=8b2252"/>
 <br/><br/>
 Responsive product showcase with organized navigation, category filtering & polished aesthetic UI 
-
 <br/><br/>
 
-[![Live](https://img.shields.io/badge/live%20demo%20-FFB6C1?style=flat-square)](https://cluelesszoha.github.io/DrinkCo/index.html)
+Show Image
+
 </td>
 </tr>
 </table>
-
----
 
 ##  Github Stats
 
