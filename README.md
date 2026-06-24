@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div align="center">
 
@@ -9,7 +8,8 @@
 <div align="center">
 
 ```
- building things that actually work ✦ numl university, multan 🇵🇰
+
+
 ```
 
 [![Gmail](https://img.shields.io/badge/zohamalik.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zohamalik.dev@gmail.com)
